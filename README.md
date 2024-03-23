@@ -6,3 +6,5 @@ Both players will draw more 5 cards each from the bottom of the stack **(with 4 
 The owner of the higher face-up card wins the war and adds all the cards on the table(12 cards) to the bottom of their deck.
 If the face-up cards are again equal then the war repeats with another face-down/up cards. This repeats until one player's face-up card is higher than their opponent's.
 If a player runs out of cards and they can't declare a war, that player loses immediately.
+
+                    ** READ MORE ABOUT THE GAME HERE;** https://en.wikipedia.org/wiki/War_(card_game)
